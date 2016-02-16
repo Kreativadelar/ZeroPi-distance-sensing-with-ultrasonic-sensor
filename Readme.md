@@ -3,7 +3,7 @@
 ZeroPi distance sensing with ultrasonic sensor,
 showing information on serial TFT screen.
 
-This is a small demonstartion project for the new ZeroPi control board from Makeblock.
+This is a small demonstration project for the new ZeroPi control board from Makeblock.
 
 [More information about ZeroPi can be found here](https://www.kickstarter.com/projects/1204283/zeropi-arduino-and-raspberry-pi-compatible-develop/description)
 
@@ -24,6 +24,6 @@ You can also see how to control a stepper motor with the ZeroPi control board in
  Switch            pin 1 -> ZeroPi pin GND 
                    pin 2 -> ZeroPi pin A1 
 
-###[Demonstration video](https://youtu.be/81xt4j0n6z4)###
+###[Demonstration video](https://youtu.be/EP57uoHRSts)###
 
 ####[A demonstration from Kreativadelar.se](http://www.kreativadelar.se)####
