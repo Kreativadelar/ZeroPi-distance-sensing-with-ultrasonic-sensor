@@ -15,12 +15,16 @@ You can also see how to control a stepper motor with the ZeroPi control board in
 
 ####Ultrasonic sensor#### 
 pin 6 -> ZeroPi pin A0
+
 pin 4 -> ZeroPi pin 5V
+
 pin 3 -> ZeroPi pin GND
 
 ####TFT Screen####       
-pin 3 -> ZeroPi pin GND 
-pin 4 -> ZeroPi pin 5V 
+pin 3 -> ZeroPi pin GND
+
+pin 4 -> ZeroPi pin 5V
+
 pin 5 -> ZeroPi pin Tx1>1 
 
 ####Switch####
